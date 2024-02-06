@@ -1,7 +1,7 @@
 # Lost Depths
 
 <p align="center">
-<a href="https://hail-seitan.itch.io/feupocalypse" target="itch"><img alt="CurseForge" height="50" src="https://github.com/luismrguimaraes/FEUPocalypse/assets/50105554/e1acb9f3-85a7-469c-8a56-dec5cf104f59"></a>
+<a href="https://pspereira.itch.io/lost-depths" target="itch"><img alt="CurseForge" height="50" src="https://github.com/luismrguimaraes/FEUPocalypse/assets/50105554/e1acb9f3-85a7-469c-8a56-dec5cf104f59"></a>
 </p>
 
 A first-person puzzle game in space.
